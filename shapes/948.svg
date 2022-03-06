@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="156.0px" width="71.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <pattern height="24" id="PatternID_948_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 48.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAYAAAARfGZ1AAAAPElEQVR42mNQU1P7T03MgAyONvj8pyZGsWBmqt1/amIUC6htOIoFtDAchEcNHzV81PBRw0cNHzV8mBsOAA3+p3MOzbmcAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M48.0 0.0 L71.0 0.0 71.0 24.0 48.0 24.0 48.0 0.0" style="fill:url(#PatternID_948_1)"/>
+    <pattern height="24" id="PatternID_948_2" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 48.0, 132.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAYAAAARfGZ1AAAAPUlEQVR42mOYmWr3nxZYTU3tP8Oo4aOGjxo+avio4aOGjxpOEq7w0aaN4XCDQQDEoSaGGwwCIA41MQMSAABEaZmHBaZEZgAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M71.0 132.0 L71.0 156.0 48.0 156.0 48.0 132.0 71.0 132.0" style="fill:url(#PatternID_948_2)"/>
+    <pattern height="24" id="PatternID_948_3" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 4.5002, 48.0, 24.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAIAAACeHvEiAAAAIklEQVR42mOYmWpHIVJTU2MYNWXUlFFTRk0ZNWXUFIpMAQBSP5aPSzD48QAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M71.0 24.0 L71.0 132.0 48.0 132.0 48.0 24.0 71.0 24.0" style="fill:url(#PatternID_948_3)"/>
+    <pattern height="24" id="PatternID_948_4" overflow="visible" patternTransform="matrix(-1.0, 0.0, 0.0, 1.0, 23.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAYAAAARfGZ1AAAAPElEQVR42mNQU1P7T03MgAyONvj8pyZGsWBmqt1/amIUC6htOIoFtDAchEcNHzV81PBRw0cNHzV8mBsOAA3+p3MOzbmcAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M23.0 0.0 L23.0 24.0 0.0 24.0 0.0 0.0 23.0 0.0" style="fill:url(#PatternID_948_4)"/>
+    <pattern height="24" id="PatternID_948_5" overflow="visible" patternTransform="matrix(-1.0, 0.0, 0.0, 4.5001, 23.0, 24.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAIAAACeHvEiAAAAIklEQVR42mOYmWpHIVJTU2MYNWXUlFFTRk0ZNWXUFIpMAQBSP5aPSzD48QAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M0.0 24.0 L23.0 24.0 23.0 132.0 0.0 132.0 0.0 24.0" style="fill:url(#PatternID_948_5)"/>
+    <pattern height="24" id="PatternID_948_6" overflow="visible" patternTransform="matrix(-1.0, 0.0, 0.0, 1.0, 23.0, 132.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAYAAAARfGZ1AAAAPUlEQVR42mOYmWr3nxZYTU3tP8Oo4aOGjxo+avio4aOGjxpOEq7w0aaN4XCDQQDEoSaGGwwCIA41MQMSAABEaZmHBaZEZgAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M0.0 132.0 L23.0 132.0 23.0 156.0 0.0 156.0 0.0 132.0" style="fill:url(#PatternID_948_6)"/>
+    <pattern height="24" id="PatternID_948_7" overflow="visible" patternTransform="matrix(1.0869, 0.0, 0.0, 1.0, 23.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAIAAACeHvEiAAAAJklEQVR42mNQowZgONrgQzlimJlqRzkaNWXUlFFTRk0ZNWUomgIAZO2e/Kk7pNgAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M48.0 24.0 L23.0 24.0 23.0 0.0 48.0 0.0 48.0 24.0" style="fill:url(#PatternID_948_7)"/>
+    <pattern height="24" id="PatternID_948_8" overflow="visible" patternTransform="matrix(1.0869, 0.0, 0.0, 1.0, 23.0, 132.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAIAAACeHvEiAAAAJklEQVR42mOYmWpHOWIYNWXUlFFTRk0ZNWUomlLho005YlCjBgAAtX2QbiV/RKkAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M23.0 132.0 L48.0 132.0 48.0 156.0 23.0 156.0 23.0 132.0" style="fill:url(#PatternID_948_8)"/>
+    <pattern height="24" id="PatternID_948_9" overflow="visible" patternTransform="matrix(1.0869, 0.0, 0.0, 4.5002, 23.0, 24.0)" patternUnits="userSpaceOnUse" viewBox="0 0 23 24" width="23">
+      <image height="24" width="23" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAIAAACeHvEiAAAAHklEQVR42mOYmWpHOWIYNWXUlFFTRk0ZNWXUFIoQABDbqX9pj1wMAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M48.0 24.0 L48.0 132.0 23.0 132.0 23.0 24.0 48.0 24.0" style="fill:url(#PatternID_948_9)"/>
+  </g>
+</svg>

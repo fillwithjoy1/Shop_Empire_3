@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="162.0px" width="320.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 160.0, 68.5)">
+    <pattern height="71" id="PatternID_1618_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 0.6557, -160.0, 46.95)" patternUnits="userSpaceOnUse" viewBox="0 0 57 71" width="57">
+      <image height="71" width="57" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAABHCAYAAAC9MO80AAAAdUlEQVR42u3SwQkAQQgDQPuvwbasx2Pfuw1cmEDA7xCrqnZm9uTcFRpISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISMi/ItOh290vaFLf0KRciyb2et3EflA3agLBMTK9AAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M-160.0 46.95 L-103.0 46.95 -103.0 93.5 -160.0 93.5 -160.0 46.95" style="fill:url(#PatternID_1618_1)"/>
+    <pattern height="71" id="PatternID_1618_2" overflow="visible" patternTransform="matrix(-1.0, 0.0, 0.0, 0.6557, 160.0, 46.95)" patternUnits="userSpaceOnUse" viewBox="0 0 57 71" width="57">
+      <image height="71" width="57" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAABHCAYAAAC9MO80AAAAdUlEQVR42u3SwQkAQQgDQPuvwbasx2Pfuw1cmEDA7xCrqnZm9uTcFRpISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISMi/ItOh290vaFLf0KRciyb2et3EflA3agLBMTK9AAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M160.0 46.95 L160.0 93.5 103.0 93.5 103.0 46.95 160.0 46.95" style="fill:url(#PatternID_1618_2)"/>
+    <pattern height="71" id="PatternID_1618_3" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 0.471, -160.0, 13.5)" patternUnits="userSpaceOnUse" viewBox="0 0 4 71" width="4">
+      <image height="71" width="4" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAABHCAIAAACvX3HrAAAAHUlEQVR42mNgYGC4evXq////GSBglDPKGeUMBg4A8AmFdFxNG5YAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M-156.0 13.5 L-156.0 46.95 -160.0 46.95 -160.0 13.5 -156.0 13.5" style="fill:url(#PatternID_1618_3)"/>
+    <pattern height="71" id="PatternID_1618_4" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 0.471, 156.0, 13.5)" patternUnits="userSpaceOnUse" viewBox="0 0 4 71" width="4">
+      <image height="71" width="4" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAABHCAIAAACvX3HrAAAAHUlEQVR42mNgYGC4evXq////GSBglDPKGeUMBg4A8AmFdFxNG5YAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M160.0 13.5 L160.0 46.95 156.0 46.95 156.0 13.5 160.0 13.5" style="fill:url(#PatternID_1618_4)"/>
+    <pattern height="71" id="PatternID_1618_5" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.1727, -160.0, -68.5)" patternUnits="userSpaceOnUse" viewBox="0 0 4 71" width="4">
+      <image height="71" width="4" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAABHCAIAAACvX3HrAAAAHUlEQVR42mNgYGC4evXq////GSBglDPKGeUMBg4A8AmFdFxNG5YAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M-156.0 -68.5 L-156.0 14.75 -160.0 14.75 -160.0 -68.5 -156.0 -68.5" style="fill:url(#PatternID_1618_5)"/>
+    <pattern height="71" id="PatternID_1618_6" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.1727, 156.0, -68.5)" patternUnits="userSpaceOnUse" viewBox="0 0 4 71" width="4">
+      <image height="71" width="4" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAABHCAIAAACvX3HrAAAAHUlEQVR42mNgYGC4evXq////GSBglDPKGeUMBg4A8AmFdFxNG5YAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M160.0 -68.5 L160.0 14.75 156.0 14.75 156.0 -68.5 160.0 -68.5" style="fill:url(#PatternID_1618_6)"/>
+    <pattern height="4" id="PatternID_1618_7" overflow="visible" patternTransform="matrix(3.6785, 0.0, 0.0, 0.6557, -103.0, 90.9)" patternUnits="userSpaceOnUse" viewBox="0 0 56 4" width="56">
+      <image height="4" width="56" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAECAIAAABUXGufAAAAF0lEQVR42mNgGCrg/xABDHOGCBgyMQ8Ap4cNyGjDva8AAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M103.0 93.5 L-103.0 93.5 -103.0 90.9 103.0 90.9 103.0 93.5" style="fill:url(#PatternID_1618_7)"/>
+  </g>
+</svg>

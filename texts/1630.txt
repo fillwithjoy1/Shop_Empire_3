@@ -1,0 +1,9 @@
+Multiple visitors may come at once from 
+--- RECORDSEPARATOR ---
+wagon if your mall has enough popularity. 
+--- RECORDSEPARATOR ---
+When it's rain, visitor may come from here 
+--- RECORDSEPARATOR ---
+more often. Cannot be destroyed or 
+--- RECORDSEPARATOR ---
+relocated.
